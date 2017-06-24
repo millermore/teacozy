@@ -23,3 +23,7 @@ header {
 nav {
   text-decoration: underline;
 }
+
+a {
+  color: white;
+}
